@@ -1,2 +1,2 @@
 # cynismeetbonheur-server
-nodejs server for Cynisme&amp;Bonheur
+nodejs server for Cynisme&amp;Bonheur \o/
