@@ -1,6 +1,10 @@
+var cors = require('cors');
+
 var express = require('express'),
   app = express(),
   port = process.env.PORT || 3000;
+
+app.use(cors());
 
 app.get('/', function (req, res) {
 	console.log('Get /')
